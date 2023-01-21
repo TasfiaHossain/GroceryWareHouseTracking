@@ -1,7 +1,8 @@
 # GroceryWareHouseTracking Project Description
 
 #### Disclaimer: 
-This was a class project for our Software Engineering Class. The following are contributers to this project - Tasfia, Samuel, Ivan, Matthew, Alex, and Kevin.
+This was a class project for our Software Engineering Class. 
+The following are contributers to this project - Tasfia, Samuel, Ivan, Matthew, Alex, and Kevin.
 
 #### Brief Project Description:
 Our goal is to develop software that will allow grocery warehouses to keep track of product inventory as well as track incoming orders and item fulfillment requests from Whole Foods, track when an order from inventory will be shipped to the grocery store, and the overall invoices from each order.
