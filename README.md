@@ -8,7 +8,7 @@ Our goal is to develop software that will allow grocery warehouses to keep track
 
 We decided to build this project using various types of Java Design Patterns as to practice our skills and showcase our project requirements. 
 
----------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 Project Requirements Document
 
@@ -33,6 +33,17 @@ consistency than is present with their current software.
 
 **GIOMS software is intended for logistical use by the grocery industry. Software can be
 modified to function in any business industry.**
+
+###Architecture:
+
+Process Flowchart:
+
+![image](https://user-images.githubusercontent.com/66657441/213894579-15448055-d969-4077-822d-2708af53399b.png)
+
+
+Journey Flowchart:
+
+![image](https://user-images.githubusercontent.com/66657441/213894543-9bbf927f-568f-4c70-b7c4-1db194e42f95.png)
 
 Business Model:
 
