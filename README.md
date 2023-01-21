@@ -34,7 +34,7 @@ consistency than is present with their current software.
 **GIOMS software is intended for logistical use by the grocery industry. Software can be
 modified to function in any business industry.**
 
-###Architecture:
+### Architecture:
 
 Process Flowchart:
 
