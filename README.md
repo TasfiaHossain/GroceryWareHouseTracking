@@ -9,7 +9,6 @@ Our goal is to develop software that will allow grocery warehouses to keep track
 
 We decided to build this project using various types of Java Design Patterns as to practice our skills and showcase our project requirements. 
 
-------
 
 # Project Requirements Document
 
