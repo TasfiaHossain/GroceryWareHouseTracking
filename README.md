@@ -1,9 +1,9 @@
-# GroceryWareHouseTracking
+# GroceryWareHouseTracking Project Description
 
-Disclaimer: 
+#### Disclaimer: 
 This was a class project for our Software Engineering Class. The following are contributers to this project - Tasfia, Samuel, Ivan, Matthew, Alex, and Kevin.
 
-Brief Project Description:
+#### Brief Project Description:
 Our goal is to develop software that will allow grocery warehouses to keep track of product inventory as well as track incoming orders and item fulfillment requests from Whole Foods, track when an order from inventory will be shipped to the grocery store, and the overall invoices from each order.
 
 We decided to build this project using various types of Java Design Patterns as to practice our skills and showcase our project requirements. 
