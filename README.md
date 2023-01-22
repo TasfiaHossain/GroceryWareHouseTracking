@@ -1,4 +1,4 @@
-# 🥕 GroceryWareHouseTracking Project Description 🥕
+# GroceryWareHouseTracking Project Description 🥕
 
 #### Disclaimer: 
 This was a class project for our Software Engineering Class. 
@@ -10,7 +10,7 @@ Our goal is to develop software that will allow grocery warehouses to keep track
 We decided to build this project using various types of Java Design Patterns as to practice our skills and showcase our project requirements. 
 
 
-# Project Requirements Document
+# Project Requirements Document ⭐
 
 These requiremenrs outline the functionality and requirements for the Grocery
 Inventory & Order Management System (GIOMS). The software will be licensed to
