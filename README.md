@@ -1,4 +1,4 @@
-# GroceryWareHouseTracking Project Description
+# 🥕 GroceryWareHouseTracking Project Description 🥕
 
 #### Disclaimer: 
 This was a class project for our Software Engineering Class. 
